@@ -1,0 +1,15 @@
+name: datascience
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - ipykernel
+  - matplotlib
+  - numpy=1.23.5
+  - pandas
+  - scikit-learn
+  - seaborn
+  - geopandas
+  - shapely=1.8.5
+  - pyrosm
