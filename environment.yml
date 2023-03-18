@@ -1,3 +1,7 @@
+# Import environment with:
+# conda env create -f environment.yml
+# conda env update --prefix ./env --file enivronment.yml --prune
+
 name: datascience
 channels:
   - conda-forge
