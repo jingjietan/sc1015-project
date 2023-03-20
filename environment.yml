@@ -1,11 +1,10 @@
 # Import environment with:
 # conda env create -f environment.yml
-# conda env update --prefix ./env --file enivronment.yml --prune
+# conda env update --prefix ./env --file environment.yml --prune
 
 name: datascience
 channels:
   - conda-forge
-  - defaults
 
 dependencies:
   - ipykernel
@@ -16,4 +15,4 @@ dependencies:
   - seaborn
   - geopandas
   - shapely=1.8.5
-  - pyrosm
+  - python-graphviz
