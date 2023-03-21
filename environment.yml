@@ -5,8 +5,10 @@
 name: datascience
 channels:
   - conda-forge
+  - default
 
 dependencies:
+  - jupyter
   - ipykernel
   - matplotlib
   - numpy=1.23.5

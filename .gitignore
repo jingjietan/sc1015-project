@@ -3,7 +3,6 @@ data/malaysia-singapore-brunei-latest.osm.pbf
 data/singapore-boundary.osm
 
 # Helper files
-*.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
