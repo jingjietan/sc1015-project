@@ -9,6 +9,7 @@ channels:
 
 dependencies:
   - jupyter
+  - ipywidgets
   - ipykernel
   - matplotlib
   - numpy=1.23.5
@@ -18,3 +19,6 @@ dependencies:
   - geopandas
   - shapely=1.8.5
   - python-graphviz
+  - xgboost
+  - dataprep
+  

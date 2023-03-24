@@ -1,8 +1,11 @@
 # Intermediate files
 data/malaysia-singapore-brunei-latest.osm.pbf
 data/singapore-boundary.osm
+tmp/
 
 # Helper files
+data/customOSMconfig.ini
+*.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -134,3 +137,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+
+idea/
