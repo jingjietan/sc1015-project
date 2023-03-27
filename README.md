@@ -1,10 +1,19 @@
 # sc1015-project
 
+### Data Source
+
+- [Airbnb Data](http://insideairbnb.com/get-the-data/)
+- [Airbnb Data Dictionary](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=1322284596)
+- [OpenStreetMap]()
 
 ### Problem Statement
 
-Houseowners might find it difficult to set the price of their house in AirBNB, as too high of a price can deter customers.\
-Hence, can we predict the good rental prices of a house for AirBNB given its location, room type, property type etc?
+Airbnb has high market share on the online marketplace industry for short-term homestays, and has revolutionised the tourism industry.
+In Singapore, short-term home rentals of less than 3 months are illegal, due to the rise of home rents.
+Nevertheless, for long-term stays, finding out the rental price of their house in AirBNB proofs to be beneficial, as too high of a price can deter customers.
+Finding out the exact price can benefit both the Airbnb company, and the houseowners.
+Due to regulations, Airbnb do not predict prices for houses in Singapore.
+Hence, the problem statement would be if we can predict a good rental prices of a house for AirBNB given its location, room type, property type etc?
 
 ### Notebooks
 
@@ -21,3 +30,7 @@ Hence, can we predict the good rental prices of a house for AirBNB given its loc
 
 1. Linear Regression
 2. to be confirmed
+
+### References
+
+- https://towardsdatascience.com/predicting-airbnb-prices-with-deep-learning-part-1-how-to-clean-up-airbnb-data-a5d58e299f6c
