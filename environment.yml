@@ -20,6 +20,9 @@ dependencies:
   - geopandas
   - shapely=1.8.5
   - python-graphviz
-  - xgboost
-  - dataprep
+  - pip
+  - pip:
+    - xgboost
+    - ray[tune]
+
   
