@@ -3,26 +3,22 @@
 # conda env update --prefix ./env --file environment.yml --prune
 
 name: datascience
-channels:
-  - conda-forge
-  - default
-
 dependencies:
-  - python=3.10
+  - python
   - jupyter
-  - ipywidgets
-  - ipykernel
   - matplotlib
-  - numpy=1.23.5
+  - numpy
   - pandas
   - scikit-learn
   - seaborn
   - geopandas
-  - shapely=1.8.5
   - python-graphviz
+  - xgboost
+  - tensorflow
+  - plotly
   - pip
   - pip:
-    - xgboost
-    - ray[tune]
+      - keras
+      - pydot
 
   
