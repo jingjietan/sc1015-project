@@ -4,6 +4,7 @@
 
 name: datascience
 dependencies:
+  - ipykernel
   - python
   - jupyter
   - matplotlib
@@ -12,13 +13,12 @@ dependencies:
   - scikit-learn
   - seaborn
   - geopandas
-  - python-graphviz
   - xgboost
   - tensorflow
   - plotly
-  - pip
-  - pip:
-      - keras
-      - pydot
+  - shap
+  - folium
+  - keras
+
 
   

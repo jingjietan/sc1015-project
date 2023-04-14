@@ -4,7 +4,7 @@
 
 - [Airbnb Data](http://insideairbnb.com/get-the-data/)
 - [Airbnb Data Dictionary](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=1322284596)
-- [OpenStreetMap]()
+- [OpenStreetMap](https://www.openstreetmap.org/)
 
 ### Problem Statement
 
@@ -29,7 +29,8 @@ Hence, the problem statement would be if we can predict a good rental prices of 
 ### Models Used 
 
 1. Linear Regression
-2. to be confirmed
+2. HistGradientBoostRegressor / XGBoost
+3. Neural Network
 
 ### References
 
