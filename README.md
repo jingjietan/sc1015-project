@@ -18,13 +18,13 @@ Hence, the problem statement would be if we can predict a good rental prices of 
 ### Notebooks
 
 1. data-preparation.ipynb
-> Data cleaning, data preparation
+> Data cleaning, Data preparation
 
 2. eda.ipynb
 > Exploratory data analysis
 
 3. machine-learning.ipynb
-> Model for predicting price
+> Model for predicting price, Optimizations and Evaluation
 
 ### Models Used 
 
@@ -35,3 +35,6 @@ Hence, the problem statement would be if we can predict a good rental prices of 
 ### References
 
 - https://towardsdatascience.com/predicting-airbnb-prices-with-deep-learning-part-1-how-to-clean-up-airbnb-data-a5d58e299f6c
+- https://towardsdatascience.com/xgboost-fine-tune-and-optimize-your-model-23d996fab663
+- https://inria.github.io/scikit-learn-mooc/tuning/parameter_tuning_module_intro.html
+-https://inria.github.io/scikit-learn-mooc/python_scripts/parameter_tuning_parallel_plot.html
