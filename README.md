@@ -37,4 +37,4 @@ Hence, the problem statement would be if we can predict a good rental prices of 
 - https://towardsdatascience.com/predicting-airbnb-prices-with-deep-learning-part-1-how-to-clean-up-airbnb-data-a5d58e299f6c
 - https://towardsdatascience.com/xgboost-fine-tune-and-optimize-your-model-23d996fab663
 - https://inria.github.io/scikit-learn-mooc/tuning/parameter_tuning_module_intro.html
--https://inria.github.io/scikit-learn-mooc/python_scripts/parameter_tuning_parallel_plot.html
+- https://inria.github.io/scikit-learn-mooc/python_scripts/parameter_tuning_parallel_plot.html
