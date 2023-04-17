@@ -39,3 +39,4 @@ Hence, the problem statement would be if we can predict a good rental prices of 
 - https://inria.github.io/scikit-learn-mooc/tuning/parameter_tuning_module_intro.html
 - https://inria.github.io/scikit-learn-mooc/python_scripts/parameter_tuning_parallel_plot.html
 - https://www.datacamp.com/tutorial/k-means-clustering-python
+- https://medium.com/@zidongyu26/exploring-the-spatial-distribution-of-airbnb-listings-in-hong-kong-2465d8c7e667
