@@ -14,11 +14,13 @@ dependencies:
   - seaborn
   - geopandas
   - xgboost
-  - tensorflow
   - plotly
-  - shap
+  - hyperopt
   - folium
-  - keras
+  - python-kaleido
+  - pip
+  - pip:
+    - git+https://github.com/hyperopt/hyperopt-sklearn
 
 
   

@@ -138,4 +138,5 @@ dmypy.json
 .pyre/
 
 
-idea/
+.vscode/
+images/*.png
