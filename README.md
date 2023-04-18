@@ -35,6 +35,12 @@ Hence, the problem statement would be if we can predict a good rental prices of 
 ### References
 
 - https://towardsdatascience.com/predicting-airbnb-prices-with-deep-learning-part-1-how-to-clean-up-airbnb-data-a5d58e299f6c
+- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html
+- https://scikit-learn.org/stable/modules/ensemble.html#histogram-based-gradient-boosting
+- https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html
+- https://xgboost.readthedocs.io/en/stable/
+- https://towardsdatascience.com/hyperopt-demystified-3e14006eb6fa#:~:text=HyperOpt%20is%20an%20open%2Dsource,a%20user%2Ddefined%20objective%20function.
 - https://towardsdatascience.com/xgboost-fine-tune-and-optimize-your-model-23d996fab663
 - https://inria.github.io/scikit-learn-mooc/tuning/parameter_tuning_module_intro.html
 - https://inria.github.io/scikit-learn-mooc/python_scripts/parameter_tuning_parallel_plot.html
