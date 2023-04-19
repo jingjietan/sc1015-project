@@ -47,3 +47,5 @@ Hence, the problem statement would be if we can predict a good rental prices of 
 - https://www.datacamp.com/tutorial/k-means-clustering-python
 - https://medium.com/@zidongyu26/exploring-the-spatial-distribution-of-airbnb-listings-in-hong-kong-2465d8c7e667
 - https://towardsdatascience.com/data-exploration-on-airbnb-singapore-01-40698c54cac3
+- https://www.kaggle.com/code/siddheshpujari/eda-and-prediction-of-house-price
+
