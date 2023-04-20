@@ -15,6 +15,11 @@ Finding out the exact price can benefit both the Airbnb company, and the houseow
 Due to regulations, Airbnb do not predict prices for houses in Singapore.
 Hence, the problem statement would be if we can predict a good rental prices of a house for AirBNB given its location, room type, property type etc?
 
+
+### Pain points for flat owners
+1) Owners of flats may struggle to determine the optimal pricing strategy that would effectively entice potential customers.
+2) Flat owners may not be able to maximize their profits unless they are aware of the prevailing market rates based on their location/room type/amenities.
+
 ### Notebooks
 
 1. data-preparation.ipynb
