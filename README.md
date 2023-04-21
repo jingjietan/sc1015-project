@@ -1,4 +1,7 @@
 # sc1015-project- Predict AirBnb price
+![airbnb](https://user-images.githubusercontent.com/58833855/233577244-74112912-a41f-4370-ba82-79500caad97d.png)
+
+
 
 ### Data Source
 
