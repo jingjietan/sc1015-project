@@ -37,6 +37,11 @@ Hence, the problem statement would be if we can predict a good rental prices of 
 2. HistGradientBoostRegressor / XGBoost
 3. Neural Network
 
+### Conclusions
+
+### What we have learnt/ Improvements that can be made
+
+
 ### References
 
 - https://towardsdatascience.com/predicting-airbnb-prices-with-deep-learning-part-1-how-to-clean-up-airbnb-data-a5d58e299f6c
