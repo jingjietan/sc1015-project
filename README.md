@@ -13,7 +13,8 @@
 
 Airbnb has high market share on the online marketplace industry for short-term homestays, and has revolutionised the tourism industry.
 In Singapore, short-term home rentals of less than 3 months are illegal, due to the rise of home rents.
-Nevertheless, for long-term stays, finding out the rental price of their house in AirBNB proofs to be beneficial, as too high of a price can deter customers.
+Nevertheless, for long-term stays, finding out the rental price of their house in AirBNB proofs to be beneficial, as too high of a price can deter customers. Rental Price in Singapore increased by 33.2%  from January 2022 to January 2023.
+The aspiration and motivation to explore the relationship between rental price and other features is to gain a better understanding of the factors that drive the rental price.
 Finding out the exact price can benefit both the Airbnb company, and the houseowners.
 Due to regulations, Airbnb do not predict prices for houses in Singapore.
 Hence, the problem statement would be if we can predict a good rental prices of a house for AirBNB given its location, room type, property type etc?
