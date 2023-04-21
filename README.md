@@ -50,7 +50,7 @@ In this file, we decided to use linear model, tree-based model and neural networ
 
 ### Conclusions
 
-By analyzing feature coefficient and feature importance, we can see which features will significantly impact the model. Based on the XGBoost regressor results, we see that distance_from_MRT, distance_from_bus, distance_from_food and distance_from_mall will affect the price. Availability, response_rate, and host since years are also seen important as they determine the worthness of the host.
+By analyzing feature coefficient and feature importance, we can see which features will significantly impact the model. Based on the XGBoost regressor results, we see that distance_from_MRT, distance_from_bus, distance_from_food and distance_from_mall will affect the price. Availability, response_rate, and host since years are also seen important as they determine the worthness of the host. Features like accommodates, property_type, beds, and room_type, categorically separates the listing, so it is high on feature importance list. With the model accuracy, our models can accurately predict the price.
 
 
 
