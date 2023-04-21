@@ -1,4 +1,4 @@
-# sc1015-project
+# sc1015-project- Predict AirBnb price
 
 ### Data Source
 
