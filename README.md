@@ -25,8 +25,12 @@ Hence, the problem statement would be if we can predict a good rental prices of 
 1. data-preparation.ipynb
 > Data cleaning, Data preparation
 
+In this file, we extract data from various files such as listings.csv, reviews.csv. We perform data cleaning here such as replacing missing values, convert categorical variables to one hot encoding, remove outliers for certain features and create new features (feature engineering) based on the data given.
+
 2. eda.ipynb
 > Exploratory data analysis
+
+In this file, we explore and visualize the data to see which columns will help the model to train. We make use of box plots, scatter plots and correlation matrix heat map using seaborn and matplotlib. To make the visualizations more interactive, we have used plotly and folium to plot the data and maps. After analysze the data, we further clean our data. E.g. We made use of K mean clustering (Unsupervised learning) to create new feature and we remove columns that have low correlation.
 
 3. machine-learning.ipynb
 > Model for predicting price, Optimizations and Evaluation
@@ -37,9 +41,13 @@ Hence, the problem statement would be if we can predict a good rental prices of 
 2. HistGradientBoostRegressor / XGBoost
 3. Neural Network
 
+In this file, we decided to use linear model, tree-based model and neural network to train our model. We managed to reduce to 16 columns exluding one hot encoding to train our model. We used R2 value and RSME to see our model performance. Gradient boost regressor has high R2 test value of 85%, however the train test results is 1.0 which shows that there is overfitting. We further try to improve our models by using optimization such as RandomSearch CV on gradient boost regressor, grid search cv on XGBoost regressor and Hyperopt CV regressor on neural network. And through this, we managed to reduce the training score, which shows that the overfitting has decreased. And based on the results, Hyperopt XGBoost regressor gave the best results.
+
+
 ### Conclusions
 
-### What we have learnt/ Improvements that can be made
+By analyzing feature coefficient and feature importance, we can see which features will significantly impact the model. Based on the XGBoost regressor results, we see that distance_from_MRT, distance_from_bus, distance_from_food and distance_from_mall will affect the price. Availability, response_rate, and host since years are also seen important as they determine the worthness of the host.
+
 
 
 ### References
