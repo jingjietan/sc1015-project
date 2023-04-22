@@ -76,4 +76,5 @@ By analyzing feature coefficient and feature importance, we can see which featur
 - https://medium.com/@zidongyu26/exploring-the-spatial-distribution-of-airbnb-listings-in-hong-kong-2465d8c7e667
 - https://towardsdatascience.com/data-exploration-on-airbnb-singapore-01-40698c54cac3
 - https://www.kaggle.com/code/siddheshpujari/eda-and-prediction-of-house-price
+- https://www.straitstimes.com/business/property/condo-and-hdb-flat-rentals-go-up-again-but-at-slower-pace-in-january
 
