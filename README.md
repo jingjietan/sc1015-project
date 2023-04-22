@@ -1,7 +1,8 @@
 # SC1015-Mini Project- Predicting airbnb Price
 ![airbnb](https://user-images.githubusercontent.com/58833855/233577244-74112912-a41f-4370-ba82-79500caad97d.png)
 
-
+###  Link to download the file 
+https://drive.google.com/file/d/1CRaybZKx3EJZ3PSvfz5-YFqfalHu745j/view?usp=sharing
 
 ### Data Source
 
