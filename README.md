@@ -20,7 +20,7 @@ Due to regulations, Airbnb do not predict prices for houses in Singapore.
 Hence, the problem statement would be if we can predict a good rental prices of a house for AirBNB given its location, room type, property type etc?
 
 
-### Pain points for flat owners
+### Pain points for rental owners
 1) Owners of flats may struggle to determine the optimal pricing strategy that would effectively entice potential customers.
 2) Flat owners may not be able to maximize their profits unless they are aware of the prevailing market rates based on their location/room type/amenities.
 
@@ -55,7 +55,7 @@ By analyzing feature coefficient and feature importance, we can see which featur
 ### Contributions
 
 @jingjietan - Machine learning / Presentation \
-@X1NGY1NG - Data Preparation / EDA / Presentation \
+@X1NY1NG - Data Preparation / EDA / Presentation \
 @yssss56 - Data Preparation / EDA / Presentation
 
 
