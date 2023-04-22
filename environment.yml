@@ -21,6 +21,7 @@ dependencies:
   - pip
   - pip:
     - git+https://github.com/hyperopt/hyperopt-sklearn
+    - wordcloud
 
 
   
